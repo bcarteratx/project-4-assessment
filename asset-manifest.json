@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bcarteratx/project-4-assessment.git/static/css/main.150830f0.chunk.css",
+    "main.js": "/bcarteratx/project-4-assessment.git/static/js/main.727a27a6.chunk.js",
+    "main.js.map": "/bcarteratx/project-4-assessment.git/static/js/main.727a27a6.chunk.js.map",
+    "runtime-main.js": "/bcarteratx/project-4-assessment.git/static/js/runtime-main.f1f89937.js",
+    "runtime-main.js.map": "/bcarteratx/project-4-assessment.git/static/js/runtime-main.f1f89937.js.map",
+    "static/js/2.bef04ba5.chunk.js": "/bcarteratx/project-4-assessment.git/static/js/2.bef04ba5.chunk.js",
+    "static/js/2.bef04ba5.chunk.js.map": "/bcarteratx/project-4-assessment.git/static/js/2.bef04ba5.chunk.js.map",
+    "index.html": "/bcarteratx/project-4-assessment.git/index.html",
+    "precache-manifest.b582a947d9ad80acae07201803c6115c.js": "/bcarteratx/project-4-assessment.git/precache-manifest.b582a947d9ad80acae07201803c6115c.js",
+    "service-worker.js": "/bcarteratx/project-4-assessment.git/service-worker.js",
+    "static/css/main.150830f0.chunk.css.map": "/bcarteratx/project-4-assessment.git/static/css/main.150830f0.chunk.css.map",
+    "static/js/2.bef04ba5.chunk.js.LICENSE.txt": "/bcarteratx/project-4-assessment.git/static/js/2.bef04ba5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1f89937.js",
+    "static/js/2.bef04ba5.chunk.js",
+    "static/css/main.150830f0.chunk.css",
+    "static/js/main.727a27a6.chunk.js"
+  ]
+}
